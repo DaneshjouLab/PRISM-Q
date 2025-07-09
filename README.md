@@ -66,8 +66,4 @@ For medication safety questions, the following additional metadata is included:
 ## File Contents
 
 - `prism_q_dataset.csv` – Main dataset with question text and annotations  
-- `annotation_guidelines.csv` – Full explanation of labels and examples  
 
-
-## To cite this dataset
-Sharma S, Alaa AM, Daneshjou R. PRISM-Q (Patient Real-World Internet Search Medical Questions) Dataset.
